@@ -18,7 +18,7 @@ while (x_val >= 1)
 { 
 
  //val = (double)count/x;
-//System.out.println(val);
+System.out.println(val);
 
  value = value + x_val; 
  count ++ ;
@@ -38,7 +38,7 @@ System.out.println("x"+ x_val);
 }  
 System.out.println("DONE!");  
 
-for (int q = x_val; q<=10; q+=2)
+for (int q = x_val; q<=8; q++)
 {
 
 if (q == 4)
