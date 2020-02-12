@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-// This is a new file 
-
-// This is CS department of TSU, we teach software engineering in COMP 3300
 class Main 
 
 {
@@ -11,7 +8,6 @@ public static void main(String[] args)
 {
 
 Scanner Obj = new Scanner (System.in);
-System.out.println("Enter an integer value");
 
 int x_val = 10; //Obj.nextInt();
 int value = 0;
@@ -40,6 +36,8 @@ System.out.println("Count"+count);
 System.out.println("x"+ x_val);  
 }  
 System.out.println("DONE!");  
+
+System.out.println("Enter an integer value");
 
 for (int q = x_val; q<=8; q++)
 {
