@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 // This is a new file 
+
+// This is CS department of TSU, we teach software engineering in COMP 3300
 class Main 
 
 {
@@ -47,7 +49,6 @@ if (q == 4)
          q = 5;
        }
 
-System.out.println(q);  
        
 }
 
